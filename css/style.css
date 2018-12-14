@@ -10,7 +10,7 @@ body {
     background-size: 100%;
 }
 
-/*NAVIGATIONSBAR*/
+/*NAVIGATIONSBAR lavet med inspiration fra en udleveret kode skrevet af Michelle*/
 header {
     width: 100%;
     padding-right: 5%;
@@ -723,11 +723,6 @@ footer p {
     /*footer*/
     footer {
         padding: 5% 0 2% 0;
-    }
-
-    #footerflex {
-        display: flex;
-        margin: 0;
     }
 
     footer h1 {
